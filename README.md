@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Lexus Guevara!
 
 Welcome to my GitHub profile!  
-I'm a passionate and dedicated software developer currently studying at the University of Caloocan City. I enjoy building web and mobile applications using modern technologies, and I love exploring new ways to solve real-world problems through software development.
+I'm a passionate and dedicated software developer from University of Caloocan City. I enjoy building web and mobile applications using modern technologies, and I love exploring new ways to solve real-world problems through software development.
 
 ---
 
