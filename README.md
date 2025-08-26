@@ -35,7 +35,7 @@ I'm a passionate and dedicated software developer from University of Caloocan Ci
 ---
 
 ## 📫 Let's Connect!
-- **Email:** 20210250m.guevara.lexus.bscs@gmail.com
+- **Email:** guevaralexus03@gmail.com
 - **Phone:** (+63) 915-173-3438
 
 ---
